@@ -1,0 +1,5 @@
+# Build c++ Addon
+$ node-gyp configure build
+
+# compile c++
+g++ hello.cc -o hello

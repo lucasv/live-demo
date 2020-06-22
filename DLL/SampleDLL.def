@@ -1,0 +1,4 @@
+LIBRARY "sampleDLL"
+
+EXPORTS
+   HelloWorld
